@@ -5,7 +5,6 @@
   "main": "lib/index.js",
   "umd:main": "lib/index.umd.js",
   "module": "lib/index.module.js",
-  "source": "src/index.js",
   "types": "index.d.ts",
   "repository": "http://github.com/NYTimes/react-helmet-async",
   "author": "Scott Taylor <scott.c.taylor@mac.com>",
